@@ -1,3 +1,4 @@
+# Connected Discord-GitHub
 import sqlite3
 from pathlib import Path
 import tkinter as tk
